@@ -1,1 +1,21 @@
 docker build -t node-docker-app .
+
+
+  jenkins :d137bee0f3b5420ea4d9d668d0537c8c
+
+
+
+
+create a job : node-docker-pipeline
+
+tick GitHub prog - add the repo link (code)
+
+script : change repo url-*
+
+
+
+
+
+
+
+
